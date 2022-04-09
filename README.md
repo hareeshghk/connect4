@@ -9,6 +9,7 @@ Run the output file.
 ./connect4.out
 
 Same output when run this binary:
+
 Number of Games: 2
 
 width of board: 5
