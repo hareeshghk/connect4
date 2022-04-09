@@ -10,14 +10,23 @@ Run the output file.
 
 Same output when run this binary:
 Number of Games: 2
+
 width of board: 5
+
 height of board: 4
+
 Current turn: 1
+
 Give Input: 0
+
+0 0 0 0 0
+
 0 0 0 0 0 
+
 0 0 0 0 0 
-0 0 0 0 0 
+
 1 0 0 0 0 
+
 
 
 Board is printed after every output.
