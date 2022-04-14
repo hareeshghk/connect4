@@ -1,6 +1,9 @@
 # connect4game-cpp
 Implementation of connect4 game
 
+Completed backend code for Game engine
+(TODO) Implement UI to expose board over browser.
+
 # Usage
 Compile with following command. You can use g++ compiler as well
 /usr/bin/clang++ -std=c++17 -stdlib=libc++ -fdiagnostics-color=always -g connect4.cpp -o ./connect4.out
