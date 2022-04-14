@@ -2,6 +2,7 @@
 Implementation of connect4 game
 
 Completed backend code for Game engine
+
 (TODO) Implement UI to expose board over browser.
 
 # Usage
