@@ -6,13 +6,14 @@ Completed backend code for Game engine
 (TODO) Implement UI to expose board over browser.
 
 # Usage
-Compile with following command. You can use g++ compiler as well
-/usr/bin/clang++ -std=c++17 -stdlib=libc++ -fdiagnostics-color=always -g connect4.cpp -o ./connect4.out
+make connect4
+
+Update Makefile with cpp compiler you are using.(Default g++)
 
 Run the output file.
 ./connect4.out
 
-Same output when run this binary:
+Same output when run this Game:
 
 Number of Games: 2
 
@@ -39,7 +40,7 @@ Board is printed after every output.
 Game ends if any player won or if game results in draw.
 
 Win message:
-"Game won by player 1/2"
+"Game won by player <1/2>"
 
 Draw Message:
 "Game resulted in a DRAW"
