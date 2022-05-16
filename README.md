@@ -6,14 +6,13 @@ Completed backend code for Game engine
 (TODO) Implement UI to expose board over browser.
 
 # Usage
-make connect4
 
-Update Makefile with cpp compiler you are using.(Default g++)
+make && ./connect4.out
 
-Run the output file.
-./connect4.out
+Note: Update Makefile with cpp compiler you are using.(Default g++)
 
-Same output when run this Game:
+
+Sample output when run this Game:
 
 Number of Games: 2
 
